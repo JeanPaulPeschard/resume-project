@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.22)  23 JAN 2025 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.22)  23 JAN 2025 19:48
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Admin/Desktop/JeanPaulPeschard/LaTEX/ResumeProject/resume.tex
-(c:/Users/Admin/Desktop/JeanPaulPeschard/LaTEX/ResumeProject/resume.tex
+**./resume.tex
+(resume.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -607,61 +606,66 @@ Package hyperref Info: Link coloring OFF on input line 157.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 179.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 188.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 194.
+(Font)              <7> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 194.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 194.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 194.
+(Font)              <5> on input line 184.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 184.
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 194--195
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 190.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 198.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 198.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 198.
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 198--199
 []  
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 197.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 201.
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 205--206
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 211--212
 []  
  []
 
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 217--218
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 225--226
 []  
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 232.
+(hyperref)                removing `\@ifnextchar' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 255.
+(hyperref)                removing `\@ifnextchar' on input line 263.
 
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 260--264
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 272--280
 [] 
  []
 
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 264--268
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 280--288
 [] 
  []
 
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 268--269
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 288--289
 []  
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 274.
+(hyperref)                removing `\@ifnextchar' on input line 294.
 
 
 
@@ -676,15 +680,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: FD7190C32AB1A74AF80A4767C47948F7;839.
  ) 
 Here is how much of TeX's memory you used:
- 25403 strings out of 473536
- 488815 string characters out of 5714956
- 868479 words of memory out of 5000000
- 48194 multiletter control sequences out of 15000+600000
- 582112 words of font info for 71 fonts, out of 8000000 for 9000
+ 25408 strings out of 473536
+ 488800 string characters out of 5714956
+ 869479 words of memory out of 5000000
+ 48199 multiletter control sequences out of 15000+600000
+ 582430 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,93p,573b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,7n,93p,496b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on resume.pdf (1 page, 92311 bytes).
+Output written on resume.pdf (1 page, 92404 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
